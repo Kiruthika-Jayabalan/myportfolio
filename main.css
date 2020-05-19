@@ -1,0 +1,20 @@
+.site-header{
+    background-color: hsl(180, 86%, 46%);
+    color:#ffffff;
+    height: 175vh;
+    font-family: monospace;
+}
+
+.site-header-text{
+    margin:50px
+}
+.profile-pic {
+   border-radius: 50%;   
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body{
+    margin:0;
+}
