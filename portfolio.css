@@ -1,0 +1,44 @@
+.fa
+{
+  color: black;
+}
+
+body
+{
+  background-image: url('1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#resume
+{
+  font-size: 20px;
+  padding: 10px 10px;
+  border-radius:  50%;
+  transition: .5s;
+}
+
+#dp
+{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:  50%;  
+  width: 15%;
+  height: 15%;
+  max-width:50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+li
+{
+  list-style: none;
+  margin: 10px 10px;
+  display: inline-block;
+  font-size: 50px;
+  color:#000;
+  padding: 10px 10px;
+  border-radius:  50%;
+  transition: .5s;
+}
