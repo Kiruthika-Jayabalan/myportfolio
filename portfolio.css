@@ -1,3 +1,10 @@
+html {
+  background: url(1.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
 .fa
 {
   color: black;
@@ -5,9 +12,7 @@
 
 body
 {
-  background-image: url('1.jpg');
   background-size: cover;
-  background-repeat: no-repeat;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
 }
